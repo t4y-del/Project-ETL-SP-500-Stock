@@ -17,4 +17,11 @@ The final output of this project includes:
 - A CSV file containing a cleaned dataset with information about S&P 500 companies.
 - A basic Power BI visualization that provides a demonstration of insights derived from the data.
 
-You can find me on LinkedIn: `https://www.linkedin.com/in/franco-maldonado-del/`
+
+![Captura de pantalla 2024-07-24 231838](https://github.com/user-attachments/assets/0cd769b2-f590-45ce-b53b-afe5faa60aca)
+# Basic Power BI visualization
+![Captura de pantalla 2024-07-24 233020](https://github.com/user-attachments/assets/cba7454e-f79c-4b50-a7eb-4515c1c4f563)
+
+
+## End
+You can find me on [LinkedIn](https://www.linkedin.com/in/franco-maldonado-del/).
