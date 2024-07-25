@@ -1,0 +1,504 @@
+Symbol,Company,Headquarter,Year First Added
+MMM,Industrials,"Saint Paul, Minnesota",1957
+AOS,Industrials,"Milwaukee, Wisconsin",2017
+ABT,Health Care,"North Chicago, Illinois",1957
+ABBV,Health Care,"North Chicago, Illinois",2012
+ACN,Information Technology,"Dublin, Ireland",2011
+ADBE,Information Technology,"San Jose, California",1997
+AMD,Information Technology,"Santa Clara, California",2017
+AES,Utilities,"Arlington, Virginia",1998
+AFL,Financials,"Columbus, Georgia",1999
+A,Health Care,"Santa Clara, California",2000
+APD,Materials,"Allentown, Pennsylvania",1985
+ABNB,Consumer Discretionary,"San Francisco, California",2023
+AKAM,Information Technology,"Cambridge, Massachusetts",2007
+ALB,Materials,"Charlotte, North Carolina",2016
+ARE,Real Estate,"Pasadena, California",2017
+ALGN,Health Care,"Tempe, Arizona",2017
+ALLE,Industrials,"Dublin, Ireland",2013
+LNT,Utilities,"Madison, Wisconsin",2016
+ALL,Financials,"Northbrook, Illinois",1995
+GOOGL,Communication Services,"Mountain View, California",2014
+GOOG,Communication Services,"Mountain View, California",2006
+MO,Consumer Staples,"Richmond, Virginia",1957
+AMZN,Consumer Discretionary,"Seattle, Washington",2005
+AMCR,Materials,"Warmley, Bristol, United Kingdom",2019
+AEE,Utilities,"St. Louis, Missouri",1991
+AAL,Industrials,"Fort Worth, Texas",2015
+AEP,Utilities,"Columbus, Ohio",1957
+AXP,Financials,"New York City, New York",1976
+AIG,Financials,"New York City, New York",1980
+AMT,Real Estate,"Boston, Massachusetts",2007
+AWK,Utilities,"Camden, New Jersey",2016
+AMP,Financials,"Minneapolis, Minnesota",2005
+AME,Industrials,"Berwyn, Pennsylvania",2013
+AMGN,Health Care,"Thousand Oaks, California",1992
+APH,Information Technology,"Wallingford, Connecticut",2008
+ADI,Information Technology,"Wilmington, Massachusetts",1999
+ANSS,Information Technology,"Canonsburg, Pennsylvania",2017
+AON,Financials,"London, UK",1996
+APA,Energy,"Houston, Texas",1997
+AAPL,Information Technology,"Cupertino, California",1982
+AMAT,Information Technology,"Santa Clara, California",1995
+APTV,Consumer Discretionary,"Dublin, Ireland",2012
+ACGL,Financials,"Hamilton, Bermuda",2022
+ADM,Consumer Staples,"Chicago, Illinois",1957
+ANET,Information Technology,"Santa Clara, California",2018
+AJG,Financials,"Rolling Meadows, Illinois",2016
+AIZ,Financials,"Atlanta, Georgia",2007
+T,Communication Services,"Dallas, Texas",1983
+ATO,Utilities,"Dallas, Texas",2019
+ADSK,Information Technology,"San Francisco, California",1989
+ADP,Industrials,"Roseland, New Jersey",1981
+AZO,Consumer Discretionary,"Memphis, Tennessee",1997
+AVB,Real Estate,"Arlington, Virginia",2007
+AVY,Materials,"Mentor, Ohio",1987
+AXON,Industrials,"Scottsdale, Arizona",2023
+BKR,Energy,"Houston, Texas",2017
+BALL,Materials,"Broomfield, Colorado",1984
+BAC,Financials,"Charlotte, North Carolina",1976
+BK,Financials,"New York City, New York",1995
+BBWI,Consumer Discretionary,"Columbus, Ohio",1983
+BAX,Health Care,"Deerfield, Illinois",1972
+BDX,Health Care,"Franklin Lakes, New Jersey",1972
+BRK.B,Financials,"Omaha, Nebraska",2010
+BBY,Consumer Discretionary,"Richfield, Minnesota",1999
+BIO,Health Care,"Hercules, California",2020
+TECH,Health Care,"Minneapolis, Minnesota",2021
+BIIB,Health Care,"Cambridge, Massachusetts",2003
+BLK,Financials,"New York City, New York",2011
+BX,Financials,"New York City, New York",2023
+BA,Industrials,"Arlington, Virginia",1957
+BKNG,Consumer Discretionary,"Norwalk, Connecticut",2009
+BWA,Consumer Discretionary,"Auburn Hills, Michigan",2011
+BSX,Health Care,"Marlborough, Massachusetts",1995
+BMY,Health Care,"New York City, New York",1957
+AVGO,Information Technology,"Palo Alto, California",2014
+BR,Industrials,"Lake Success, New York",2018
+BRO,Financials,"Daytona Beach, Florida",2021
+BF.B,Consumer Staples,"Louisville, Kentucky",1982
+BLDR,Industrials,"Irving, Texas",2023
+BG,Consumer Staples,"Chesterfield, Missouri",2023
+BXP,Real Estate,"Boston, Massachusetts",2006
+CDNS,Information Technology,"San Jose, California",2017
+CZR,Consumer Discretionary,"Reno, Nevada",2021
+CPT,Real Estate,"Houston, Texas",2022
+CPB,Consumer Staples,"Camden, New Jersey",1957
+COF,Financials,"Tysons Corner, Virginia",1998
+CAH,Health Care,"Dublin, Ohio",1997
+KMX,Consumer Discretionary,"Richmond, Virginia",2010
+CCL,Consumer Discretionary,"Miami, Florida",1998
+CARR,Industrials,"Palm Beach Gardens, Florida",2020
+CTLT,Health Care,"Somerset, New Jersey",2020
+CAT,Industrials,"Irving, Texas",1957
+CBOE,Financials,"Chicago, Illinois",2017
+CBRE,Real Estate,"Dallas, Texas",2006
+CDW,Information Technology,"Vernon Hills, Illinois",2019
+CE,Materials,"Irving, Texas",2018
+COR,Health Care,"Conshohocken, Pennsylvania",2001
+CNC,Health Care,"St. Louis, Missouri",2016
+CNP,Utilities,"Houston, Texas",1985
+CF,Materials,"Deerfield, Illinois",2008
+CHRW,Industrials,"Eden Prairie, Minnesota",2007
+CRL,Health Care,"Wilmington, Massachusetts",2021
+SCHW,Financials,"Westlake, Texas",1997
+CHTR,Communication Services,"Stamford, Connecticut",2016
+CVX,Energy,"San Ramon, California",1957
+CMG,Consumer Discretionary,"Newport Beach, California",2011
+CB,Financials,"Zurich, Switzerland",2010
+CHD,Consumer Staples,"Ewing, New Jersey",2015
+CI,Health Care,"Bloomfield, Connecticut",1976
+CINF,Financials,"Fairfield, Ohio",1997
+CTAS,Industrials,"Mason, Ohio",2001
+CSCO,Information Technology,"San Jose, California",1993
+C,Financials,"New York City, New York",1988
+CFG,Financials,"Providence, Rhode Island",2016
+CLX,Consumer Staples,"Oakland, California",1969
+CME,Financials,"Chicago, Illinois",2006
+CMS,Utilities,"Jackson, Michigan",1957
+KO,Consumer Staples,"Atlanta, Georgia",1957
+CTSH,Information Technology,"Teaneck, New Jersey",2006
+CL,Consumer Staples,"New York City, New York",1957
+CMCSA,Communication Services,"Philadelphia, Pennsylvania",2002
+CAG,Consumer Staples,"Chicago, Illinois",1983
+COP,Energy,"Houston, Texas",1957
+ED,Utilities,"New York City, New York",1957
+STZ,Consumer Staples,"Rochester, New York",2005
+CEG,Utilities,"Baltimore, Maryland",2022
+COO,Health Care,"San Ramon, California",2016
+CPRT,Industrials,"Dallas, Texas",2018
+GLW,Information Technology,"Corning, New York",1995
+CPAY,Financials,"Atlanta, Georgia",2018
+CTVA,Materials,"Indianapolis, Indiana",2019
+CSGP,Real Estate,"Washington, D.C.",2022
+COST,Consumer Staples,"Issaquah, Washington",1993
+CTRA,Energy,"Houston, Texas",2008
+CRWD,Information Technology,"Austin, Texas",2024
+CCI,Real Estate,"Houston, Texas",2012
+CSX,Industrials,"Jacksonville, Florida",1957
+CMI,Industrials,"Columbus, Indiana",1965
+CVS,Health Care,"Woonsocket, Rhode Island",1957
+DHR,Health Care,"Washington, D.C.",1998
+DRI,Consumer Discretionary,"Orlando, Florida",1995
+DVA,Health Care,"Denver, Colorado",2008
+DAY,Industrials,"Minneapolis, Minnesota",2021
+DECK,Consumer Discretionary,"Goleta, California",2024
+DE,Industrials,"Moline, Illinois",1957
+DAL,Industrials,"Atlanta, Georgia",2013
+DVN,Energy,"Oklahoma City, Oklahoma",2000
+DXCM,Health Care,"San Diego, California",2020
+FANG,Energy,"Midland, Texas",2018
+DLR,Real Estate,"Austin, Texas",2016
+DFS,Financials,"Riverwoods, Illinois",2007
+DG,Consumer Staples,"Goodlettsville, Tennessee",2012
+DLTR,Consumer Staples,"Chesapeake, Virginia",2011
+D,Utilities,"Richmond, Virginia",2016
+DPZ,Consumer Discretionary,"Ann Arbor, Michigan",2020
+DOV,Industrials,"Downers Grove, Illinois",1985
+DOW,Materials,"Midland, Michigan",2019
+DHI,Consumer Discretionary,"Arlington, Texas",2005
+DTE,Utilities,"Detroit, Michigan",1957
+DUK,Utilities,"Charlotte, North Carolina",1976
+DD,Materials,"Wilmington, Delaware",2019
+EMN,Materials,"Kingsport, Tennessee",1994
+ETN,Industrials,"Dublin, Ireland",1957
+EBAY,Consumer Discretionary,"San Jose, California",2002
+ECL,Materials,"Saint Paul, Minnesota",1989
+EIX,Utilities,"Rosemead, California",1957
+EW,Health Care,"Irvine, California",2011
+EA,Communication Services,"Redwood City, California",2002
+ELV,Health Care,"Indianapolis, Indiana",2002
+EMR,Industrials,"Ferguson, Missouri",1965
+ENPH,Information Technology,"Fremont, California",2021
+ETR,Utilities,"New Orleans, Louisiana",1957
+EOG,Energy,"Houston, Texas",2000
+EPAM,Information Technology,"Newtown, Pennsylvania",2021
+EQT,Energy,"Pittsburgh, Pennsylvania",2022
+EFX,Industrials,"Atlanta, Georgia",1997
+EQIX,Real Estate,"Redwood City, California",2015
+EQR,Real Estate,"Chicago, Illinois",2001
+ESS,Real Estate,"San Mateo, California",2014
+EL,Consumer Staples,"New York City, New York",2006
+ETSY,Consumer Discretionary,"New York City, New York",2020
+EG,Financials,"Hamilton, Bermuda",2017
+EVRG,Utilities,"Kansas City, Missouri",2018
+ES,Utilities,"Hartford, Connecticut",2009
+EXC,Utilities,"Chicago, Illinois",1957
+EXPE,Consumer Discretionary,"Seattle, Washington",2007
+EXPD,Industrials,"Seattle, Washington",2007
+EXR,Real Estate,"Salt Lake City, Utah",2016
+XOM,Energy,"Irving, Texas",1957
+FFIV,Information Technology,"Seattle, Washington",2010
+FDS,Financials,"Norwalk, Connecticut",2021
+FICO,Information Technology,"Bozeman, Montana",2023
+FAST,Industrials,"Winona, Minnesota",2008
+FRT,Real Estate,"Rockville, Maryland",2016
+FDX,Industrials,"Memphis, Tennessee",1980
+FIS,Financials,"Jacksonville, Florida",2006
+FITB,Financials,"Cincinnati, Ohio",1996
+FSLR,Information Technology,"Tempe, Arizona",2022
+FE,Utilities,"Akron, Ohio",1997
+FI,Financials,"Brookfield, Wisconsin",2001
+FMC,Materials,"Philadelphia, Pennsylvania",2009
+F,Consumer Discretionary,"Dearborn, Michigan",1957
+FTNT,Information Technology,"Sunnyvale, California",2018
+FTV,Industrials,"Everett, Washington",2016
+FOXA,Communication Services,"New York City, New York",2019
+FOX,Communication Services,"New York City, New York",2019
+BEN,Financials,"San Mateo, California",1998
+FCX,Materials,"Phoenix, Arizona",2011
+GRMN,Consumer Discretionary,"Schaffhausen, Switzerland",2012
+IT,Information Technology,"Stamford, Connecticut",2017
+GE,Industrials,"Evendale, Ohio",1957
+GEHC,Health Care,"Chicago, Illinois",2023
+GEV,Industrials,"Cambridge, Massachusetts",2024
+GEN,Information Technology,"Tempe, Arizona",2003
+GNRC,Industrials,"Waukesha, Wisconsin",2021
+GD,Industrials,"Falls Church, Virginia",1957
+GIS,Consumer Staples,"Golden Valley, Minnesota",1957
+GM,Consumer Discretionary,"Detroit, Michigan",2013
+GPC,Consumer Discretionary,"Atlanta, Georgia",1973
+GILD,Health Care,"Foster City, California",2004
+GPN,Financials,"Atlanta, Georgia",2016
+GL,Financials,"McKinney, Texas",1989
+GDDY,Information Technology,"Tempe, Arizona",2024
+GS,Financials,"New York City, New York",2002
+HAL,Energy,"Houston, Texas",1957
+HIG,Financials,"Hartford, Connecticut",1957
+HAS,Consumer Discretionary,"Pawtucket, Rhode Island",1984
+HCA,Health Care,"Nashville, Tennessee",2015
+DOC,Real Estate,"Denver, Colorado",2008
+HSIC,Health Care,"Melville, New York",2015
+HSY,Consumer Staples,"Hershey, Pennsylvania",1957
+HES,Energy,"New York City, New York",1984
+HPE,Information Technology,"Houston, Texas",2015
+HLT,Consumer Discretionary,"Tysons Corner, Virginia",2017
+HOLX,Health Care,"Marlborough, Massachusetts",2016
+HD,Consumer Discretionary,"Atlanta, Georgia",1988
+HON,Industrials,"Charlotte, North Carolina",1957
+HRL,Consumer Staples,"Austin, Minnesota",2009
+HST,Real Estate,"Bethesda, Maryland",2007
+HWM,Industrials,"Pittsburgh, Pennsylvania",2016
+HPQ,Information Technology,"Palo Alto, California",1974
+HUBB,Industrials,"Shelton, Connecticut",2023
+HUM,Health Care,"Louisville, Kentucky",2012
+HBAN,Financials,"Columbus, Ohio; Detroit, Michigan",1997
+HII,Industrials,"Newport News, Virginia",2018
+IBM,Information Technology,"Armonk, New York",1957
+IEX,Industrials,"Lake Forest, Illinois",2019
+IDXX,Health Care,"Westbrook, Maine",2017
+ITW,Industrials,"Glenview, Illinois",1986
+INCY,Health Care,"Wilmington, Delaware",2017
+IR,Industrials,"Davidson, North Carolina",2020
+PODD,Health Care,"Acton, Massachusetts",2023
+INTC,Information Technology,"Santa Clara, California",1976
+ICE,Financials,"Atlanta, Georgia",2007
+IFF,Materials,"New York City, New York",1976
+IP,Materials,"Memphis, Tennessee",1957
+IPG,Communication Services,"New York City, New York",1992
+INTU,Information Technology,"Mountain View, California",2000
+ISRG,Health Care,"Sunnyvale, California",2008
+IVZ,Financials,"Atlanta, Georgia",2008
+INVH,Real Estate,"Dallas, Texas",2022
+IQV,Health Care,"Durham, North Carolina",2017
+IRM,Real Estate,"Boston, Massachusetts",2009
+JBHT,Industrials,"Lowell, Arkansas",2015
+JBL,Information Technology,"St. Petersburg, Florida",2023
+JKHY,Financials,"Monett, Missouri",2018
+J,Industrials,"Dallas, Texas",2007
+JNJ,Health Care,"New Brunswick, New Jersey",1973
+JCI,Industrials,"Cork, Ireland",2010
+JPM,Financials,"New York City, New York",1975
+JNPR,Information Technology,"Sunnyvale, California",2006
+K,Consumer Staples,"Chicago, Illinois",1989
+KVUE,Consumer Staples,"Skillman, New Jersey",2023
+KDP,Consumer Staples,"Burlington, Massachusetts",2022
+KEY,Financials,"Cleveland, Ohio",1994
+KEYS,Information Technology,"Santa Rosa, California",2018
+KMB,Consumer Staples,"Irving, Texas",1957
+KIM,Real Estate,"Jericho, New York",2006
+KMI,Energy,"Houston, Texas",2012
+KKR,Financials,"New York City, New York",2024
+KLAC,Information Technology,"Milpitas, California",1997
+KHC,Consumer Staples,"Chicago, Illinois; Pittsburgh, Pennsylvania",2015
+KR,Consumer Staples,"Cincinnati, Ohio",1957
+LHX,Industrials,"Melbourne, Florida",2008
+LH,Health Care,"Burlington, North Carolina",2004
+LRCX,Information Technology,"Fremont, California",2012
+LW,Consumer Staples,"Eagle, Idaho",2018
+LVS,Consumer Discretionary,"Las Vegas, Nevada",2019
+LDOS,Industrials,"Reston, Virginia",2019
+LEN,Consumer Discretionary,"Miami, Florida",2005
+LLY,Health Care,"Indianapolis, Indiana",1970
+LIN,Materials,"Guildford, United Kingdom",1992
+LYV,Communication Services,"Beverly Hills, California",2019
+LKQ,Consumer Discretionary,"Chicago, Illinois",2016
+LMT,Industrials,"Bethesda, Maryland",1957
+L,Financials,"New York City, New York",1995
+LOW,Consumer Discretionary,"Mooresville, North Carolina",1984
+LULU,Consumer Discretionary,"Vancouver, Canada",2023
+LYB,Materials,"Rotterdam, Netherlands",2012
+MTB,Financials,"Buffalo, New York",2004
+MRO,Energy,"Houston, Texas",1957
+MPC,Energy,"Findlay, Ohio",2011
+MKTX,Financials,"New York City, New York",2019
+MAR,Consumer Discretionary,"Bethesda, Maryland",1998
+MMC,Financials,"New York City, New York",1987
+MLM,Materials,"Raleigh, North Carolina",2014
+MAS,Industrials,"Livonia, Michigan",1981
+MA,Financials,"Harrison, New York",2008
+MTCH,Communication Services,"Dallas, Texas",2021
+MKC,Consumer Staples,"Hunt Valley, Maryland",2003
+MCD,Consumer Discretionary,"Chicago, Illinois",1970
+MCK,Health Care,"Irving, Texas",1999
+MDT,Health Care,"Dublin, Ireland",1986
+MRK,Health Care,"Kenilworth, New Jersey",1957
+META,Communication Services,"Menlo Park, California",2013
+MET,Financials,"New York City, New York",2000
+MTD,Health Care,"Columbus, Ohio",2016
+MGM,Consumer Discretionary,"Paradise, Nevada",2017
+MCHP,Information Technology,"Chandler, Arizona",2007
+MU,Information Technology,"Boise, Idaho",1994
+MSFT,Information Technology,"Redmond, Washington",1994
+MAA,Real Estate,"Memphis, Tennessee",2016
+MRNA,Health Care,"Cambridge, Massachusetts",2021
+MHK,Consumer Discretionary,"Calhoun, Georgia",2013
+MOH,Health Care,"Long Beach, California",2022
+TAP,Consumer Staples,"Chicago, Illinois",1976
+MDLZ,Consumer Staples,"Chicago, Illinois",2012
+MPWR,Information Technology,"Kirkland, Washington",2021
+MNST,Consumer Staples,"Corona, California",2012
+MCO,Financials,"New York City, New York",1998
+MS,Financials,"New York City, New York",1993
+MOS,Materials,"Tampa, Florida",2011
+MSI,Information Technology,"Chicago, Illinois",1957
+MSCI,Financials,"New York City, New York",2018
+NDAQ,Financials,"New York City, New York",2008
+NTAP,Information Technology,"San Jose, California",1999
+NFLX,Communication Services,"Los Gatos, California",2010
+NEM,Materials,"Denver, Colorado",1969
+NWSA,Communication Services,"New York City, New York",2013
+NWS,Communication Services,"New York City, New York",2015
+NEE,Utilities,"Juno Beach, Florida",1976
+NKE,Consumer Discretionary,"Washington County, Oregon",1988
+NI,Utilities,"Merrillville, Indiana",2000
+NDSN,Industrials,"Westlake, Ohio",2022
+NSC,Industrials,"Atlanta, Georgia",1957
+NTRS,Financials,"Chicago, Illinois",1998
+NOC,Industrials,"West Falls Church, Virginia",1957
+NCLH,Consumer Discretionary,"Miami, Florida",2017
+NRG,Utilities,"Houston, Texas",2010
+NUE,Materials,"Charlotte, North Carolina",1985
+NVDA,Information Technology,"Santa Clara, California",2001
+NVR,Consumer Discretionary,"Reston, Virginia",2019
+NXPI,Information Technology,"Eindhoven, Netherlands",2021
+ORLY,Consumer Discretionary,"Springfield, Missouri",2009
+OXY,Energy,"Houston, Texas",1957
+ODFL,Industrials,"Thomasville, North Carolina",2019
+OMC,Communication Services,"New York City, New York",1997
+ON,Information Technology,"Phoenix, Arizona",2022
+OKE,Energy,"Tulsa, Oklahoma",2010
+ORCL,Information Technology,"Austin, Texas",1989
+OTIS,Industrials,"Farmington, Connecticut",2020
+PCAR,Industrials,"Bellevue, Washington",1980
+PKG,Materials,"Lake Forest, Illinois",2017
+PANW,Information Technology,"Santa Clara, California",2023
+PARA,Communication Services,"New York City, New York",1994
+PH,Industrials,"Cleveland, Ohio",1985
+PAYX,Industrials,"Penfield, New York",1998
+PAYC,Industrials,"Oklahoma City, Oklahoma",2020
+PYPL,Financials,"San Jose, California",2015
+PNR,Industrials,"Worsley, United Kingdom",2012
+PEP,Consumer Staples,"Purchase, New York",1957
+PFE,Health Care,"New York City, New York",1957
+PCG,Utilities,"San Francisco, California",2022
+PM,Consumer Staples,"New York City, New York",2008
+PSX,Energy,"Houston, Texas",2012
+PNW,Utilities,"Phoenix, Arizona",1999
+PNC,Financials,"Pittsburgh, Pennsylvania",1988
+POOL,Consumer Discretionary,"Covington, Louisiana",2020
+PPG,Materials,"Pittsburgh, Pennsylvania",1957
+PPL,Utilities,"Allentown, Pennsylvania",2001
+PFG,Financials,"Des Moines, Iowa",2002
+PG,Consumer Staples,"Cincinnati, Ohio",1957
+PGR,Financials,"Mayfield Village, Ohio",1997
+PLD,Real Estate,"San Francisco, California",2003
+PRU,Financials,"Newark, New Jersey",2002
+PEG,Utilities,"Newark, New Jersey",1957
+PTC,Information Technology,"Boston, Massachusetts",2021
+PSA,Real Estate,"Glendale, California",2005
+PHM,Consumer Discretionary,"Atlanta, Georgia",1984
+QRVO,Information Technology,"Greensboro, North Carolina",2015
+PWR,Industrials,"Houston, Texas",2009
+QCOM,Information Technology,"San Diego, California",1999
+DGX,Health Care,"Secaucus, New Jersey",2002
+RL,Consumer Discretionary,"New York City, New York",2007
+RJF,Financials,"St. Petersburg, Florida",2017
+RTX,Industrials,"Waltham, Massachusetts",1957
+O,Real Estate,"San Diego, California",2015
+REG,Real Estate,"Jacksonville, Florida",2017
+REGN,Health Care,"Tarrytown, New York",2013
+RF,Financials,"Birmingham, Alabama",1998
+RSG,Industrials,"Phoenix, Arizona",2008
+RMD,Health Care,"San Diego, California",2017
+RVTY,Health Care,"Waltham, Massachusetts",1985
+ROK,Industrials,"Milwaukee, Wisconsin",2000
+ROL,Industrials,"Atlanta, Georgia",2018
+ROP,Information Technology,"Sarasota, Florida",2009
+ROST,Consumer Discretionary,"Dublin, California",2009
+RCL,Consumer Discretionary,"Miami, Florida",2014
+SPGI,Financials,"New York City, New York",1957
+CRM,Information Technology,"San Francisco, California",2008
+SBAC,Real Estate,"Boca Raton, Florida",2017
+SLB,Energy,"Houston, Texas",1957
+STX,Information Technology,"Dublin, Ireland",2012
+SRE,Utilities,"San Diego, California",2017
+NOW,Information Technology,"Santa Clara, California",2019
+SHW,Materials,"Cleveland, Ohio",1964
+SPG,Real Estate,"Indianapolis, Indiana",2002
+SWKS,Information Technology,"Irvine, California",2015
+SJM,Consumer Staples,"Orrville, Ohio",2008
+SW,Materials,"Dublin, Ireland",1957
+SNA,Industrials,"Kenosha, Wisconsin",1982
+SOLV,Health Care,"Saint Paul, Minnesota",2024
+SO,Utilities,"Atlanta, Georgia",1957
+LUV,Industrials,"Dallas, Texas",1994
+SWK,Industrials,"New Britain, Connecticut",1982
+SBUX,Consumer Discretionary,"Seattle, Washington",2000
+STT,Financials,"Boston, Massachusetts",2003
+STLD,Materials,"Fort Wayne, Indiana",2022
+STE,Health Care,"Dublin, Ireland",2019
+SYK,Health Care,"Kalamazoo, Michigan",2000
+SMCI,Information Technology,"San Jose, California",2024
+SYF,Financials,"Stamford, Connecticut",2015
+SNPS,Information Technology,"Sunnyvale, California",2017
+SYY,Consumer Staples,"Houston, Texas",1986
+TMUS,Communication Services,"Bellevue, Washington",2019
+TROW,Financials,"Baltimore, Maryland",2019
+TTWO,Communication Services,"New York City, New York",2018
+TPR,Consumer Discretionary,"New York City, New York",2004
+TRGP,Energy,"Houston, Texas",2022
+TGT,Consumer Staples,"Minneapolis, Minnesota",1976
+TEL,Information Technology,"Schaffhausen, Switzerland",2011
+TDY,Information Technology,"Thousand Oaks, California",2020
+TFX,Health Care,"Wayne, Pennsylvania",2019
+TER,Information Technology,"North Reading, Massachusetts",2020
+TSLA,Consumer Discretionary,"Austin, Texas",2020
+TXN,Information Technology,"Dallas, Texas",2001
+TXT,Industrials,"Providence, Rhode Island",1978
+TMO,Health Care,"Waltham, Massachusetts",2004
+TJX,Consumer Discretionary,"Framingham, Massachusetts",1985
+TSCO,Consumer Discretionary,"Brentwood, Tennessee",2014
+TT,Industrials,"Dublin, Ireland",2010
+TDG,Industrials,"Cleveland, Ohio",2016
+TRV,Financials,"New York City, New York",2002
+TRMB,Information Technology,"Westminster, Colorado",2021
+TFC,Financials,"Charlotte, North Carolina",1997
+TYL,Information Technology,"Plano, Texas",2020
+TSN,Consumer Staples,"Springdale, Arkansas",2005
+USB,Financials,"Minneapolis, Minnesota",1999
+UBER,Industrials,"San Francisco, California",2023
+UDR,Real Estate,"Highlands Ranch, Colorado",2016
+ULTA,Consumer Discretionary,"Bolingbrook, Illinois",2016
+UNP,Industrials,"Omaha, Nebraska",1957
+UAL,Industrials,"Chicago, Illinois",2015
+UPS,Industrials,"Sandy Springs, Georgia",2002
+URI,Industrials,"Stamford, Connecticut",2014
+UNH,Health Care,"Minnetonka, Minnesota",1994
+UHS,Health Care,"King of Prussia, Pennsylvania",2014
+VLO,Energy,"San Antonio, Texas",2002
+VTR,Real Estate,"Chicago, Illinois",2009
+VLTO,Industrials,"Waltham, Massachusetts",2023
+VRSN,Information Technology,"Dulles, Virginia",2006
+VRSK,Industrials,"Jersey City, New Jersey",2015
+VZ,Communication Services,"New York City, New York",1983
+VRTX,Health Care,"Boston, Massachusetts",2013
+VTRS,Health Care,"Pittsburgh, Pennsylvania",2004
+VICI,Real Estate,"New York City, New York",2022
+V,Financials,"San Francisco, California",2009
+VST,Utilities,"Irving, Texas",2024
+VMC,Materials,"Birmingham, Alabama",1999
+WRB,Financials,"Greenwich, Connecticut",2019
+GWW,Industrials,"Lake Forest, Illinois",1981
+WAB,Industrials,"Pittsburgh, Pennsylvania",2019
+WBA,Consumer Staples,"Deerfield, Illinois",1979
+WMT,Consumer Staples,"Bentonville, Arkansas",1982
+DIS,Communication Services,"Burbank, California",1976
+WBD,Communication Services,"New York City, New York",2022
+WM,Industrials,"Houston, Texas",1998
+WAT,Health Care,"Milford, Massachusetts",2002
+WEC,Utilities,"Milwaukee, Wisconsin",2008
+WFC,Financials,"San Francisco, California",1976
+WELL,Real Estate,"Toledo, Ohio",2009
+WST,Health Care,"Exton, Pennsylvania",2020
+WDC,Information Technology,"San Jose, California",2009
+WY,Real Estate,"Seattle, Washington",1979
+WMB,Energy,"Tulsa, Oklahoma",1975
+WTW,Financials,"London, United Kingdom",2016
+WYNN,Consumer Discretionary,"Paradise, Nevada",2008
+XEL,Utilities,"Minneapolis, Minnesota",1957
+XYL,Industrials,"White Plains, New York",2011
+YUM,Consumer Discretionary,"Louisville, Kentucky",1997
+ZBRA,Information Technology,"Lincolnshire, Illinois",2019
+ZBH,Health Care,"Warsaw, Indiana",2001
+ZTS,Health Care,"Parsippany, New Jersey",2013
